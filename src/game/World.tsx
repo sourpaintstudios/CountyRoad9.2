@@ -6,7 +6,7 @@ import { RenderPass } from "three/addons/postprocessing/RenderPass.js";
 import { UnrealBloomPass } from "three/addons/postprocessing/UnrealBloomPass.js";
 import { sfxBoom, sfxHit, sfxLock, sfxPower, sfxStrum, startMusic, stopMusic } from "./audio";
 import { isFiring, moveAxis, setInjectedKeys } from "./input";
-import { addHitstop, addTrauma, burst, createJuice, tickJuice } from "./juice";
+import { addHitstop, aduma, burst, createJuice, tickJuice } from "./juice";
 import { live } from "./store";
 import { genreById, type BandmateId, type GenreId, type Mission } from "./types";
 
