@@ -1,0 +1,18 @@
+Sour Paint Studios: County Road 9 Master Concept & Design Document
+​1. Narrative & Story Arc
+​The Open & The Truck Ride: The game begins with an immersive scene of driving down County Road 9 in an old vintage truck. The gameplay pauses to let the player interact with a mechanical push-button truck radio to lock in their custom settings.
+​The Abduction: While cruising down the desert road, massive, blinding lights flash across the night sky. The player shields their eyes as the alien presence descends.
+​Mission 1 – The Desert Road: The player finds themselves standing outside the truck on the highway, armed with an acoustic Martin guitar. They must shred chords to a rhythm track to blast away the initial waves of descending UFOs with vibrant, colorful explosions. After fighting off the wave, the player is ultimately overwhelmed and sucked up into the alien mothership.
+​Mission 2 – Inside the Mothership (Boss Rush): The game shifts entirely to a high-stakes, 1-on-1 boss-rush mode inside the vessel. Every single encounter is a dedicated boss fight against expressive, bizarre alien entities. Winning isn't about grinding thousands of minor enemies; it requires strategic real-time rhythm execution and genre matching. Success triggers wild, humorous status effects—forcing the aliens into hilarious reactions like dancing themselves to exhaustion or binge-eating cheeseburgers.
+​2. Pre-Game Setup & Radio Mechanics
+​Push-Button Presets: The vintage truck dashboard features five mechanical push buttons. Players select their top five preferred genres from a diverse pool (including Rock and Roll, Classical, Love Songs, Country, Blues, Rap, and Heavy Metal) to map out their combat loadout.
+​The 8-Track Tape: Alongside the radio buttons, players insert an 8-track tape representing their absolute favorite style or signature anthem, which drives their primary combat multipliers and personal playstyle preference.
+​3. Gameplay Mechanics & Combat Loop
+​Strum & Tap Rhythm System: Abandoning awkward mobile thumbsticks, the core mechanic uses a Guitar Hero-style scrolling note track. Players tap and strum in real-time to match the rhythm, ensuring the music never stops and the action remains non-stop.
+​Power-Up Drops & Bandmates: Taking inspiration from classic shoot-'em-ups like Gradius, grabbing floating power-up drops mid-battle physically summons bandmates right onto the stage next to the player. Each bandmate brings a distinct attitude, commentary, and real-time modifier that alters how the music and the alien boss react.
+​4. Art & Aesthetic Direction (Sour Paint Studios)
+​Visual Identity: Completely steers clear of generic digital CGI. The game utilizes a distinct artistic palette featuring rich alla prima oil paint textures, fluid watercolor washes, and vibrant multi-colored particle bursts that erupt every time a chord is struck.
+​Character Expressions: Emphasizes close-up, highly detailed character work—highlighting the intense expressions of the guitarist contrasted against the exaggerated, panicked, or comical reactions of the alien bosses.
+​5. Audio Strategy
+​Gameplay Audio: Uses retro chiptune or MIDI-driven tracks during active arcade gameplay loops to keep performance smooth and lightweight for mobile architecture.
+​Cinematic & Boss Audio: High-impact, professional-grade original studio compositions and public domain classical arrangements (such as Mozart) are deployed during major boss showdowns and cinematic beats to provide a striking artistic contrast.

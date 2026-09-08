@@ -1,0 +1,25 @@
+Sour Paint Studios: County Road 9 Game Plan & Development Blueprint
+​1. Project Overview & Core Concept
+​Game Title: County Road 9
+​Studio: Sour Paint Studios
+​Genre: Rhythm-Action / Arcade Boss Rush
+​Core Vision: A music-driven mobile game blending retro arcade mechanics with original studio tracks, an interactive vintage truck radio setup, and an artistic visual style featuring alla prima oil paint strokes, fluid watercolors, and multi-colored explosive bursts.
+​2. Narrative & Gameplay Progression Loop
+​Phase 1: The Dashboard Setup (The Open)
+​The game opens with a driving scene on County Road 9. The action pauses for the player to interact with an old truck push-button dashboard radio.
+​Genre Selection: Players select their top five genre presets from a pool (Rock & Roll, Classical, Love Songs, Country, Blues, Rap, Heavy Metal) and insert an 8-track tape to lock in their favorite style and primary anthem.
+​Phase 2: Mission 1 – The Desert Road (The Abduction)
+​Sudden bright lights fill the desert sky. The player finds themselves standing outside the truck with an acoustic Martin guitar, shredding chords to the rhythm to blast away initial descending UFO waves.
+​After defeating a set number of ships, the player is ultimately overwhelmed and sucked up into the mothership.
+​Phase 3: Mission 2 – Inside the Mothership (Boss Rush)
+​Gameplay transitions to an interior boss-rush mode. Players face individual alien characters one or two at a time in real-time rhythm combat.
+​Genre execution triggers hilarious, exaggerated alien reactions (e.g., dancing to exhaustion, bizarre binge-eating animations).
+​Power-Up Drops: Mid-battle drop mechanics summon bandmates onto the screen, changing the audio-visual dynamics and boosting combat capabilities.
+​3. Technical & Asset Architecture
+​Game Engine: Unreal Engine or Unity (optimized for real-time visual particle effects, smooth rhythm timing, and mobile UI frameworks).
+​Visual Assets: Custom alla prima oil textures, fluid watercolor wash backgrounds, high-resolution portrait illustrations, and pyrography-inspired UI elements (already generated).
+​Audio Pipeline:
+​Active Gameplay: Chiptune or MIDI-driven retro audio loops to maintain arcade performance and protect original studio recordings.
+​Cinematic / Boss Phases: Full-fidelity original studio compositions and public domain classical arrangements (e.g., Mozart).
+​4. Prompt Engineering & Build Strategy for AI Tools (Meta AI / Grok Build)
+​Copy and paste the framework below directly into Meta AI, Grok, or any prototyping environment to initiate development:
